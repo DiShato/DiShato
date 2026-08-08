@@ -1,7 +1,10 @@
 <div align="center">
+    
 <img src="./assets/header.svg" alt="Header"/>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Narrow&pause=1000&color=a5b4fc&center=true&width=435&lines=I+love+clean+code;and;full-cycle+development%F0%9F%A6%84)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Narrow&pause=1000&color=a5b4fc&center=true&width=435&lines=I+love+clean+code;and;full-cycle+development%F0%9F%A6%84)](https://git.io/typing-svg)
+    
 <img src="./assets/tech_stack.svg" alt="tech_stack"/>
+
 <p align="center">
     <!-- Python -->
     <span style="background:#a5b4fc; padding:4px 14px 4px 10px; border-radius:20px; display:inline-block; margin:4px; font-size:14px; font-family: 'Arial Narrow',Arial Narrow, Arial; vertical-align:middle;">
@@ -58,5 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="height:18px; width:18px; vertical-align:middle; margin-right:6px;" alt="FastAPI"/>FastAPI</span>
   </p>
 <br/><br/>
+
 <img src="./assets/footer.svg" alt="Footer" width="680"/>
+
 </div>
