@@ -1,9 +1,8 @@
 <div align="center">
     
 <img src="./assets/header.svg" alt="Header"/>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Narrow&pause=1000&color=a5b4fc&center=true&width=435&lines=I+love+clean+code;and;full-cycle+development%F0%9F%A6%84)](https://git.io/typing-svg)
-    
-<img src="./assets/tech_stack.svg" alt="tech_stack"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Narrow&pause=1000&color=a5b4fc&center=true&width=435&lines=I+love+clean+code;and;full-cycle+development%F0%9F%A6%84)](https://git.io/typing-svg)
 
 <p align="center">
     <!-- Python -->
