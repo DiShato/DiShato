@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Narrow&pause=1000&color=a5b4fc&center=true&width=435&lines=I+love+clean+code;and;full-cycle+development%F0%9F%A6%84)](https://git.io/typing-svg)
 
+<img src="./assets/tech_stack.svg" alt="Header"/>
+
 <p align="center">
     <!-- Python -->
     <span style="background:#a5b4fc; padding:4px 14px 4px 10px; border-radius:20px; display:inline-block; margin:4px; font-size:14px; font-family: 'Arial Narrow',Arial Narrow, Arial; vertical-align:middle;">
